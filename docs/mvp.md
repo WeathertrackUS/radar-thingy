@@ -38,7 +38,7 @@ The MVP for the Weather Radar Application focuses on delivering the core functio
 - Test frontend components for functionality and responsiveness.
 
 ## Task Assignments
-- **Coordinator (You)**:
+- **Coordinator (WeatherboySuper)**:
   - Set up the backend API server using Python and Flask.
   - Integrate the NWS API to fetch radar and severe weather alert data.
   - Create backend endpoints for:
