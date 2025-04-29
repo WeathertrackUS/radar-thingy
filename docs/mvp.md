@@ -5,7 +5,7 @@ The MVP for the Weather Radar Application focuses on delivering the core functio
 
 ## Goals
 - Display radar data from the NWS
-- Display the radar data ontop of a basemap
+- Display the radar data on top of a basemap
 - Display Severe Weather Alerts
 
 ## Core Features
